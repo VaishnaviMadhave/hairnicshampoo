@@ -1,0 +1,62 @@
+{
+  "prods": [
+    {
+      "id": "1",
+      "name": "Hair Shining Shampoo",
+      "image": "./img/product-1.png",
+      "price": 99.99,
+      "stock": 8,
+      "qty": 1
+    },
+    {
+      "id": "2",
+      "name": "Anti-dandruff Shampoo",
+      "image": "./img/product-2.png",
+      "price": 99.99,
+      "stock": 10,
+      "qty": 1
+    },
+    {
+      "id": "3",
+      "name": "Anti Hairfall Shampoo",
+      "image": "./img/product-1.png",
+      "price": 99.99,
+      "stock": 7,
+      "qty": 1
+    },
+    {
+      "id": "4",
+      "name": "Hair Growing Shampoo",
+      "image": "./img/product-2.png",
+      "price": 99.99,
+      "stock": 6,
+      "qty": 1
+    }
+  ],
+  "cart": [
+    {
+      "id": "2",
+      "name": "Anti-dandruff Shampoo",
+      "image": "./img/product-2.png",
+      "price": 99.99,
+      "stock": 10,
+      "qty": 1
+    },
+    {
+      "id": "4",
+      "name": "Hair Growing Shampoo",
+      "image": "./img/product-2.png",
+      "price": 99.99,
+      "stock": 6,
+      "qty": 1
+    },
+    {
+      "id": "3",
+      "name": "Anti Hairfall Shampoo",
+      "image": "./img/product-1.png",
+      "price": 99.99,
+      "stock": 7,
+      "qty": 1
+    }
+  ]
+}
